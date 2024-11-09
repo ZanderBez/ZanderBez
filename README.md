@@ -4,7 +4,8 @@
 
 ### Hey there 👋
 
-I'm [Your Name], a [your job title/role] specializing in [your specialties, e.g., front-end development, full-stack engineering]. I have a passion for [something you're passionate about, e.g., building responsive web apps, creative problem-solving]. 
+I'm Zander Bezuidenhout, a student at OpenWindow specializing in full-stack development. I have a passion for crafting intuitive and efficient web applications that solve real-world problems. I thrive on learning new technologies and enjoy turning complex ideas into seamless user experiences. I also love to experiment and ensure that the websites I develop not only function well but also look great.
+
 
 Want to know more about me? [Check out my portfolio](https://your-portfolio-link).
 
