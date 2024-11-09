@@ -1,7 +1,5 @@
-[![Your Name's GitHub Banner](./assets/GitHubHeader.png)](https://your-portfolio-link)
-
+![Zander Bezuidenhout GitHub Banner](./assets/Group%20104.png)
 ---
-
 ### Hey there 👋
 
 I'm Zander Bezuidenhout, a student at OpenWindow specializing in full-stack development. I have a passion for crafting intuitive and efficient web applications that solve real-world problems. I thrive on learning new technologies and enjoy turning complex ideas into seamless user experiences. I also love to experiment and ensure that the websites I develop not only function well but also look great.
