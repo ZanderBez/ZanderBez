@@ -16,8 +16,6 @@ Connect with me professionally:
 
 ### Pinned Repositories
 
-<br>
-
 <a href="https://github.com/ZanderBez/CodeSwipe">
   <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=ZanderBez&repo=CodeSwipe&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
 </a>
@@ -31,8 +29,6 @@ Connect with me professionally:
 <a href="https://github.com/ZanderBez/MindHaven">
   <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=ZanderBez&repo=MindHaven&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
 </a>
-
-<br>
 
 ---
 
@@ -72,7 +68,7 @@ Connect with me professionally:
 
 ---
 
-###Contact Information
+### Contact Information
 
 - Email: **bezuidenhoutzander8@gmail.com**  
 - LinkedIn: **[Zander Bezuidenhout](https://www.linkedin.com/in/zander-bezuidenhout-a80b91394/)**  
