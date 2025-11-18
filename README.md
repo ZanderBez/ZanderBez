@@ -1,4 +1,4 @@
-![Zander Bezuidenhout GitHub Banner](./assets/Group%20104.png)
+<img width="1584" height="396" alt="Untitled" src="https://github.com/user-attachments/assets/25856a8a-7897-402c-b6ba-489f7d58a32b" />
 
 ---
 
